@@ -9,29 +9,29 @@
     {
         "id":1,
         "title":"Task 2",
-        "note":"BRT",
-        "author":"Autor",
+        "note":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author":"Mirjana",
         "date":"01/20/1993 20:21"
     },
     {
         "id":2,
         "title":"Task 3",
-        "note":"BRT",
-        "author":"Autor",
+        "note":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author":"Mirjana",
         "date":"01/20/1993 20:41"
     },
     {
         "id":3,
         "title":"Task 4",
-        "note":"BRT",
-        "author":"Autor",
+        "note":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author":"Mirjana",
         "date":"01/20/1993 20:05"
     },
     {
         "id":4,
         "title":"Task 5",
-        "note":"BRT",
-        "author":"Autor",
+        "note":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author":"Mirjana",
         "date":"01/20/1993 20:03"
     }
     
