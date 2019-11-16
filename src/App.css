@@ -1,22 +1,23 @@
-.App {
-  text-align: center;
+button{
+    border-radius: 0!important;
 }
 
-.App-logo {
-  height: 40vmin;
+#notes-container  {
+    padding: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#notes-container>div:nth-child(odd) .card{
+    background-color:#f8cdcd;
+    transform: rotate(2deg)
+}
+#notes-container>div:nth-child(even) .card{
+    background-color: #cbfafa;
+    transform: rotate(-2deg)
 }
 
-.App-link {
-  color: #09d3ac;
+@media (min-width: 500px){
+    #search{
+        width: 100% !important;
+        margin-top: 10px;
+    }
 }
